@@ -474,11 +474,3 @@ WHERE c.category IN
 ("Chinese","Mexican","French","Italian","Korean","Japanese","Indian")
 GROUP BY b.stars, c.category
 ORDER BY b.stars desc 
-
-
-		
-
-
-				
-	
-
